@@ -1,0 +1,10 @@
+Requirements.
+
+-The whole site uses Bootstrap. It can be seen in the link I've used in the head tag and the classes I have used in div tags.
+-The site has 7 HTML pages ie. Home, BestSelling, Slideshow, Tip, Partners, About and Contact.
+-Has 7 images. 3 images in Home pages, 3 images in Slideshow page and 1 image in Partners page.
+-A seperate css file has be created named style.css
+-Collapse has been used in Best Selling webpage, Carousel has been used in Slideshow webpage and Modal has been used in Contact webpage.
+-The Collapse in BestSelling webpage uses a list.
+-Contact page has a form.
+-Every uses Bootstrap grid to make is responsive. For example when you reduce the viewport of Homepage the images will appear on after the other.
